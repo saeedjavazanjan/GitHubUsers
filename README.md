@@ -24,7 +24,7 @@ In this course you'll learn how to interact with a REST API from <a href="Food2F
 </ol>
 <br><strong>A Note</strong>:</br>
 <br>
-<strong>because of github api limt I generated a personal token for heades.And that will expire after 90 days.</strong>
+<strong>because of github api limit I generated a personal token for heades.And that will expire after 90 days.</strong>
 <br><br>
 <br>Thanks for reading.
 <br>good job.
