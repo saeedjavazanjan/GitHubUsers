@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.OwlesticTask" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#392933</item>
+        <item name="colorPrimaryVariant">#4C2E41</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#5c6ac2</item>
+        <item name="colorSecondaryVariant">#4256D5</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#392933</item>
+        <item name="android:fontFamily">@font/britanic</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
