@@ -18,6 +18,7 @@ In this course you'll learn how to interact with a REST API from github. The app
 <li>CoordinatorLayout and AppBarLayout and CollapsingToolbarLayout</li>
 <li>Observables, LiveData, MutableLiveData </li>
 <li>Displaying Images using coil</li>
+<li>View Binding </li>
 <li>CardViews</li>
 <li>SearchViews</li>
 <li>Passing data between activities using intent extras</li>
