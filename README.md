@@ -3,7 +3,7 @@
 <h3><a href='https://drive.google.com/file/d/1J04lLU_gYHq-BCI037Rv9nni5HmuTohv/view?usp=share_link' target='_blank'>download the app apk</a>.</h3>
 
 <br>
-In this course you'll learn how to interact with a REST API from <a href="Food2Fork.com" target="_blank" rel="nofollow">Food2Fork.com</a>. The app will retrieve information from the website and display it in various view types. 
+In this course you'll learn how to interact with a REST API from github. The app will retrieve information from the website and display it in spicial view type. 
 <br><br>
 <strong>Used Technologes:</strong>
 <br><br>
@@ -24,7 +24,7 @@ In this course you'll learn how to interact with a REST API from <a href="Food2F
 </ol>
 <br><strong>A Note</strong>:</br>
 <br>
-<strong>because of github api limit I generated a personal token for heades.And that will expire after 90 days.</strong>
+<strong>because of github api limit I generated a personal token for headers.And that will expire after 90 days.</strong>
 <br><br>
 <br>Thanks for reading.
 <br>good job.
